@@ -1,0 +1,38 @@
+Code,Location
+AF,Adult fiction
+ANF,Adult non-fiction
+AUDIOBK,Audiobooks
+BRAILLE,Children's Braille books
+CDROM,CD-ROMs
+DVD,DVDs
+EXPRESS,Express Collection
+FRAF,French adult fiction
+FRANF,French adult non-fiction
+FRAUDIOBK,French audiobooks
+FRBRAILLE,French children's Braille books
+FRDVD,French DVDs
+FRJEASY,French junior picture books
+FRJF,French junior fiction
+FRJNF,French junior non-fiction
+FRJREF,French junior reference
+FRLPF,French large-print
+FRMUSIC,French music
+FRREF,French reference
+FRYA,French young-adult
+GAMES,Games
+GOVDOC,Government documents
+JEASY,Children's picture books
+JF,Junior fiction
+JMUSIC,Junior music
+JNF,Junior non-fiction
+JREF,Junior reference
+LITCOLL,Literacy
+LPF,Large-print fiction
+LPNF,Large-print non-fiction
+MUSIC,Music
+ONLINE,Digital media
+PEICOLL,PEI collection
+PROFCOLL,Professional materials
+REFERENCE,Reference Material
+YAF,Young-adult fiction
+YANF,Young-adult non-fiction
